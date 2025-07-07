@@ -5,3 +5,6 @@ The primary goal is to support environmental monitoring efforts by predicting th
 # Model link : 
 Since the file size was more than 25MB so beacuse of that I had uploaded pickle file link:
 https://drive.google.com/file/d/1_3PcidF6wl_WlW05TSvOvqhHcbNV7ESv/view?usp=drive_link
+# How to run -
+>To run the file you can run it with this path  "streamlit run app.py" or "python -m streamlit run app.py"
+>
